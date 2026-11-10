@@ -2386,6 +2386,544 @@
         "name": "NewSprite",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "Busta_Rhymes_Ron_Browz_-_Arab_Money_Back_On_My_B.S_Hip-Hop_2009_(mp3.pm).mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Busta_Rhymes_Ron_Browz_-_Arab_Money_Back_On_My_B.S_Hip-Hop_2009_(mp3.pm).mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "../../GDevelop projects/My project/Busta_Rhymes_Ron_Browz_-_Arab_Money_Back_On_My_B.S_Hip-Hop_2009_(mp3.pm).mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "../../GDevelop projects/My project/Busta_Rhymes_Ron_Browz_-_Arab_Money_Back_On_My_B.S_Hip-Hop_2009_(mp3.pm).mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Busta_Rhymes_Ron_Browz_-_Arab_Money_Back_On_My_B.S_Hip-Hop_2009_(mp3.pm)2.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Busta_Rhymes_Ron_Browz_-_Arab_Money_Back_On_My_B.S_Hip-Hop_2009_(mp3.pm)2.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "haha.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "haha.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "haha2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "haha2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "haha3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "haha3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "haha4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "haha4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "haha5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "haha5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "haha6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "haha6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "7ha.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "7ha.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "8ha.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "8ha.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "jghjghj.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "jghjghj.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "hghgh.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "hghgh.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "hghgh2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "hghgh2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "13.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "14.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "15.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "16.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "17.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "18.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "19.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "20.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "21.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "22.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "john lumber standing side left.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "john lumber standing side left.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "john lumber walk left 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "john lumber walk left 2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "john lumber walk left side.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "john lumber walk left side.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "john lumber walk left3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "john lumber walk left3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "john lumber walk left side2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "john lumber walk left side2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "john lumber standing side left2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "john lumber standing side left2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "john lumber walk left4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "john lumber walk left4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "john lumber walk left side3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "john lumber walk left side3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "john lumber walk right side.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "john lumber walk right side.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "john lumber walk right side 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "john lumber walk right side 2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "john lumber walk left5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "john lumber walk left5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "john lumber walk left side4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "john lumber walk left side4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "john lumber walk right side2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "john lumber walk right side2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "john lumber walk right side3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"john lumber walk right side3.png\",\"extension\":\".png\"}",
+        "name": "john lumber walk right side3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "john lumber walk right side4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"john lumber walk right side4.png\",\"extension\":\".png\"}",
+        "name": "john lumber walk right side4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "john lumber standing side left3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "john lumber standing side left3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "john lumber walk left6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "john lumber walk left6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "john lumber standing side left4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "john lumber standing side left4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "john lumber walk left7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "john lumber walk left7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "23.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "24.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "25.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "26.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "27.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "28.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "29.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "30.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "30.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "31.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "31.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "32.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "33.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "33.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "grass.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "grass.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "grass2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "grass2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "anne.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "anne.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "achievement_earned.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "achievement_earned.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "textb.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "textb.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "textb2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "textb2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "lefe.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lefe.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "rere.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rere.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Lumbering.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Lumbering.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ]
   },
@@ -2419,7 +2957,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.6197916666666733,
+        "zoomFactor": 0.8635277700824202,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -2437,6 +2975,12 @@
           "persistentUuid": "afde47e5-e3f8-4631-9d7d-b6e37baea4a3",
           "type": "number",
           "value": 0
+        },
+        {
+          "name": "Treequesty",
+          "persistentUuid": "95f315dd-c325-4b43-89ab-6b87b34dd214",
+          "type": "number",
+          "value": 0
         }
       ],
       "instances": [
@@ -2450,8 +2994,8 @@
           "name": "Grass",
           "persistentUuid": "e8987d11-d7fb-4695-9c04-c427341fdf9d",
           "width": 246,
-          "x": 850,
-          "y": -192,
+          "x": 824,
+          "y": 1232,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -2467,8 +3011,8 @@
           "name": "Grass",
           "persistentUuid": "434422e6-c016-4bee-820d-7d210b2f6cb9",
           "width": 246,
-          "x": 728,
-          "y": -121,
+          "x": 702,
+          "y": 1303,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -2484,8 +3028,8 @@
           "name": "Grass",
           "persistentUuid": "a357ca81-4666-4ee1-a9e4-b26edfd0af45",
           "width": 246,
-          "x": 975,
-          "y": -121,
+          "x": 949,
+          "y": 1303,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -2501,8 +3045,8 @@
           "name": "Grass",
           "persistentUuid": "f5e08018-8aa9-42f2-ab2b-36f45de05732",
           "width": 246,
-          "x": 1096,
-          "y": -51,
+          "x": 1070,
+          "y": 1373,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -2518,8 +3062,8 @@
           "name": "Grass",
           "persistentUuid": "b06ef5a9-170f-4507-8737-008917b49343",
           "width": 246,
-          "x": 850,
-          "y": -51,
+          "x": 824,
+          "y": 1373,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -2535,8 +3079,8 @@
           "name": "Grass",
           "persistentUuid": "dc01405e-c689-4926-9bdf-d2796c9d32c6",
           "width": 246,
-          "x": 603,
-          "y": -51,
+          "x": 577,
+          "y": 1373,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -2552,8 +3096,8 @@
           "name": "Grass",
           "persistentUuid": "091d2180-c673-44c3-a235-c0c896974de8",
           "width": 246,
-          "x": 1220,
-          "y": 21,
+          "x": 1194,
+          "y": 1445,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -2569,8 +3113,8 @@
           "name": "Grass",
           "persistentUuid": "1672e232-6442-407d-be6c-369fc01e2199",
           "width": 246,
-          "x": 482,
-          "y": 21,
+          "x": 456,
+          "y": 1445,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -2586,8 +3130,8 @@
           "name": "Grass",
           "persistentUuid": "79b286ea-b949-4634-af35-f65b7376056e",
           "width": 246,
-          "x": 728,
-          "y": 21,
+          "x": 702,
+          "y": 1445,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -2603,8 +3147,8 @@
           "name": "Grass",
           "persistentUuid": "f8b509f7-99d6-4a97-894a-03f5cd829b66",
           "width": 246,
-          "x": 975,
-          "y": 21,
+          "x": 949,
+          "y": 1445,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -2620,8 +3164,8 @@
           "name": "Grass",
           "persistentUuid": "a87e9a66-c867-4bfc-87a4-dd397fa20a09",
           "width": 246,
-          "x": 1342,
-          "y": 92,
+          "x": 1316,
+          "y": 1516,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -2637,8 +3181,8 @@
           "name": "Grass",
           "persistentUuid": "a2ecab45-41c0-49c8-bd28-8097d938caf2",
           "width": 246,
-          "x": 358,
-          "y": 92,
+          "x": 332,
+          "y": 1516,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -2654,8 +3198,8 @@
           "name": "Grass",
           "persistentUuid": "d7ff890d-9daf-4ff2-8b47-d4029ffb7683",
           "width": 246,
-          "x": 603,
-          "y": 92,
+          "x": 577,
+          "y": 1516,
           "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
@@ -2671,8 +3215,8 @@
           "name": "Grass",
           "persistentUuid": "47fa1b52-b7db-4cf4-89e4-f239ba7446f7",
           "width": 246,
-          "x": 850,
-          "y": 92,
+          "x": 824,
+          "y": 1516,
           "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
@@ -2688,8 +3232,8 @@
           "name": "Grass",
           "persistentUuid": "5ef96716-b496-4a0d-9453-1da7d945b99c",
           "width": 246,
-          "x": 1096,
-          "y": 92,
+          "x": 1070,
+          "y": 1516,
           "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
@@ -2705,8 +3249,8 @@
           "name": "Grass",
           "persistentUuid": "5fbaf6ea-ff78-4cd7-8866-4d1cfda4fa73",
           "width": 246,
-          "x": 1466,
-          "y": 163,
+          "x": 1440,
+          "y": 1587,
           "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
@@ -2722,8 +3266,8 @@
           "name": "Grass",
           "persistentUuid": "a19eee00-c33b-43ca-b9af-1cd2a5254883",
           "width": 246,
-          "x": 1220,
-          "y": 163,
+          "x": 1194,
+          "y": 1587,
           "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
@@ -2739,8 +3283,8 @@
           "name": "Grass",
           "persistentUuid": "082a22c8-87b3-4605-945b-542c0653184c",
           "width": 246,
-          "x": 975,
-          "y": 163,
+          "x": 949,
+          "y": 1587,
           "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
@@ -2756,8 +3300,8 @@
           "name": "Grass",
           "persistentUuid": "bc635e45-3ada-4e3d-9a01-63c536a47097",
           "width": 246,
-          "x": 728,
-          "y": 163,
+          "x": 702,
+          "y": 1587,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -2773,8 +3317,8 @@
           "name": "Grass",
           "persistentUuid": "f8947b44-2677-4f1e-94f4-48ac0b313799",
           "width": 246,
-          "x": 482,
-          "y": 163,
+          "x": 456,
+          "y": 1587,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -2790,8 +3334,8 @@
           "name": "Grass",
           "persistentUuid": "71bf9dc7-99db-4809-a94b-142878e42ed2",
           "width": 246,
-          "x": 236,
-          "y": 163,
+          "x": 210,
+          "y": 1587,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -2807,8 +3351,8 @@
           "name": "Grass",
           "persistentUuid": "43a90d02-31bf-456b-8c53-83222d2dc5be",
           "width": 246,
-          "x": 1589,
-          "y": 233,
+          "x": 1563,
+          "y": 1657,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -2824,8 +3368,8 @@
           "name": "Grass",
           "persistentUuid": "e6c7ef29-a4a1-44f8-a7f2-3d47e236519a",
           "width": 246,
-          "x": 1342,
-          "y": 233,
+          "x": 1316,
+          "y": 1657,
           "zOrder": 23,
           "numberProperties": [],
           "stringProperties": [],
@@ -2841,8 +3385,8 @@
           "name": "Grass",
           "persistentUuid": "3b74cf1d-78c2-4581-b891-5f85036c2860",
           "width": 246,
-          "x": 1096,
-          "y": 233,
+          "x": 1070,
+          "y": 1657,
           "zOrder": 24,
           "numberProperties": [],
           "stringProperties": [],
@@ -2858,8 +3402,8 @@
           "name": "Grass",
           "persistentUuid": "982e3f9f-8eb4-4adc-a153-edcbdb99fee3",
           "width": 246,
-          "x": 850,
-          "y": 233,
+          "x": 824,
+          "y": 1657,
           "zOrder": 25,
           "numberProperties": [],
           "stringProperties": [],
@@ -2875,8 +3419,8 @@
           "name": "Grass",
           "persistentUuid": "1948f9b0-10c7-46b5-a033-b233db65fe11",
           "width": 246,
-          "x": 603,
-          "y": 233,
+          "x": 577,
+          "y": 1657,
           "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
@@ -2892,8 +3436,8 @@
           "name": "Grass",
           "persistentUuid": "c5f1da01-88f6-4dc8-b08e-9a85ca809e33",
           "width": 246,
-          "x": 358,
-          "y": 233,
+          "x": 332,
+          "y": 1657,
           "zOrder": 27,
           "numberProperties": [],
           "stringProperties": [],
@@ -2909,8 +3453,8 @@
           "name": "Grass",
           "persistentUuid": "6d615fa3-f603-4520-82ae-81412c85dd85",
           "width": 246,
-          "x": 112,
-          "y": 233,
+          "x": 86,
+          "y": 1657,
           "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
@@ -2926,8 +3470,8 @@
           "name": "Grass",
           "persistentUuid": "25890bb4-66a8-4680-a153-785cb4e276ae",
           "width": 246,
-          "x": 1466,
-          "y": 305,
+          "x": 1440,
+          "y": 1729,
           "zOrder": 29,
           "numberProperties": [],
           "stringProperties": [],
@@ -2943,8 +3487,8 @@
           "name": "Grass",
           "persistentUuid": "fbb53d8d-3279-4236-9f44-bfa91fbdf1b9",
           "width": 246,
-          "x": 1220,
-          "y": 305,
+          "x": 1194,
+          "y": 1729,
           "zOrder": 30,
           "numberProperties": [],
           "stringProperties": [],
@@ -2960,8 +3504,8 @@
           "name": "Grass",
           "persistentUuid": "183a467e-f71d-404f-a4f0-f1930a124e11",
           "width": 246,
-          "x": 975,
-          "y": 305,
+          "x": 949,
+          "y": 1729,
           "zOrder": 31,
           "numberProperties": [],
           "stringProperties": [],
@@ -2977,8 +3521,8 @@
           "name": "Grass",
           "persistentUuid": "a96eb82b-b0f7-4818-8942-01130bd6bc8a",
           "width": 246,
-          "x": 728,
-          "y": 305,
+          "x": 702,
+          "y": 1729,
           "zOrder": 32,
           "numberProperties": [],
           "stringProperties": [],
@@ -2994,8 +3538,8 @@
           "name": "Grass",
           "persistentUuid": "09131838-2081-4350-b89b-2a57f64d255f",
           "width": 246,
-          "x": 482,
-          "y": 305,
+          "x": 456,
+          "y": 1729,
           "zOrder": 33,
           "numberProperties": [],
           "stringProperties": [],
@@ -3011,8 +3555,8 @@
           "name": "Grass",
           "persistentUuid": "a0ee2896-397f-4f24-8f3a-ebf83d43b93a",
           "width": 246,
-          "x": 236,
-          "y": 305,
+          "x": 210,
+          "y": 1729,
           "zOrder": 34,
           "numberProperties": [],
           "stringProperties": [],
@@ -3028,8 +3572,8 @@
           "name": "Grass",
           "persistentUuid": "2f348dbf-e355-42b1-acf1-9b5178d37c31",
           "width": 246,
-          "x": 358,
-          "y": 376,
+          "x": 332,
+          "y": 1800,
           "zOrder": 35,
           "numberProperties": [],
           "stringProperties": [],
@@ -3045,8 +3589,8 @@
           "name": "Grass",
           "persistentUuid": "f524c200-d1d5-4cfc-9096-ae77ff108e45",
           "width": 246,
-          "x": 603,
-          "y": 376,
+          "x": 577,
+          "y": 1800,
           "zOrder": 36,
           "numberProperties": [],
           "stringProperties": [],
@@ -3062,8 +3606,8 @@
           "name": "Grass",
           "persistentUuid": "6f95b04d-d567-4ee3-99f5-a99ff482628a",
           "width": 246,
-          "x": 850,
-          "y": 376,
+          "x": 824,
+          "y": 1800,
           "zOrder": 37,
           "numberProperties": [],
           "stringProperties": [],
@@ -3079,8 +3623,8 @@
           "name": "Grass",
           "persistentUuid": "deaf7834-d236-4732-86f2-63b3f6e9314d",
           "width": 246,
-          "x": 1096,
-          "y": 376,
+          "x": 1070,
+          "y": 1800,
           "zOrder": 38,
           "numberProperties": [],
           "stringProperties": [],
@@ -3096,8 +3640,8 @@
           "name": "Grass",
           "persistentUuid": "79a3db54-5711-47f7-b22a-e35d84db8a58",
           "width": 246,
-          "x": 1342,
-          "y": 376,
+          "x": 1316,
+          "y": 1800,
           "zOrder": 39,
           "numberProperties": [],
           "stringProperties": [],
@@ -3113,8 +3657,8 @@
           "name": "Grass",
           "persistentUuid": "93b03f0b-bdd9-46a3-8757-f0539a158b47",
           "width": 246,
-          "x": 1220,
-          "y": 447,
+          "x": 1194,
+          "y": 1871,
           "zOrder": 40,
           "numberProperties": [],
           "stringProperties": [],
@@ -3130,8 +3674,8 @@
           "name": "Grass",
           "persistentUuid": "c6cae3ff-44e9-4f73-bb8d-1d7b989a8c7b",
           "width": 246,
-          "x": 975,
-          "y": 447,
+          "x": 949,
+          "y": 1871,
           "zOrder": 41,
           "numberProperties": [],
           "stringProperties": [],
@@ -3147,8 +3691,8 @@
           "name": "Grass",
           "persistentUuid": "f30fc74b-f1ca-41ca-b987-108879d4b638",
           "width": 246,
-          "x": 728,
-          "y": 447,
+          "x": 702,
+          "y": 1871,
           "zOrder": 42,
           "numberProperties": [],
           "stringProperties": [],
@@ -3164,8 +3708,8 @@
           "name": "Grass",
           "persistentUuid": "84c751d6-3449-48e3-a155-c95cce4a4547",
           "width": 246,
-          "x": 482,
-          "y": 447,
+          "x": 456,
+          "y": 1871,
           "zOrder": 43,
           "numberProperties": [],
           "stringProperties": [],
@@ -3181,8 +3725,8 @@
           "name": "Grass",
           "persistentUuid": "6b2cce15-0644-43e9-a597-2b0d3ed9d0b5",
           "width": 246,
-          "x": 603,
-          "y": 517,
+          "x": 577,
+          "y": 1941,
           "zOrder": 44,
           "numberProperties": [],
           "stringProperties": [],
@@ -3198,8 +3742,8 @@
           "name": "Grass",
           "persistentUuid": "96054037-631f-46c0-ae8c-eb644f55789c",
           "width": 246,
-          "x": 850,
-          "y": 517,
+          "x": 824,
+          "y": 1941,
           "zOrder": 45,
           "numberProperties": [],
           "stringProperties": [],
@@ -3215,8 +3759,8 @@
           "name": "Grass",
           "persistentUuid": "5809a3cd-1347-4588-bed2-3fd384db69b8",
           "width": 246,
-          "x": 1096,
-          "y": 517,
+          "x": 1070,
+          "y": 1941,
           "zOrder": 46,
           "numberProperties": [],
           "stringProperties": [],
@@ -3232,8 +3776,8 @@
           "name": "Grass",
           "persistentUuid": "c6c6ed87-022c-4c7c-9c9f-2dc0591a4f20",
           "width": 246,
-          "x": 975,
-          "y": 588,
+          "x": 949,
+          "y": 2012,
           "zOrder": 47,
           "numberProperties": [],
           "stringProperties": [],
@@ -3249,8 +3793,8 @@
           "name": "Grass",
           "persistentUuid": "aabea886-5556-46fe-9123-dc7497d93517",
           "width": 246,
-          "x": 726,
-          "y": 588,
+          "x": 700,
+          "y": 2012,
           "zOrder": 48,
           "numberProperties": [],
           "stringProperties": [],
@@ -3266,8 +3810,8 @@
           "name": "Grass",
           "persistentUuid": "4bbda4ec-71fe-47fb-839b-d309bbd63f58",
           "width": 246,
-          "x": 850,
-          "y": 660,
+          "x": 824,
+          "y": 2084,
           "zOrder": 49,
           "numberProperties": [],
           "stringProperties": [],
@@ -3283,8 +3827,8 @@
           "name": "InvisibleWall",
           "persistentUuid": "af46fab9-6f11-4f4d-b1f0-a24b090d919e",
           "width": 998,
-          "x": 1025,
-          "y": 517,
+          "x": 999,
+          "y": 1941,
           "zOrder": 51,
           "numberProperties": [],
           "stringProperties": [],
@@ -3300,8 +3844,8 @@
           "name": "InvisibleWall",
           "persistentUuid": "97ddae3e-a1bd-409a-9e9a-55c9851e8162",
           "width": 998,
-          "x": -83,
-          "y": 513,
+          "x": -112,
+          "y": 1944,
           "zOrder": 51,
           "numberProperties": [],
           "stringProperties": [],
@@ -3310,16 +3854,16 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 2,
-          "height": 49,
+          "depth": 4,
+          "height": 95,
           "keepRatio": true,
           "layer": "",
           "name": "Player",
           "persistentUuid": "d9a95c7c-fbc3-4bf1-aa1c-0864d5a67438",
-          "width": 49,
-          "x": 932,
-          "y": 275,
-          "zOrder": 52,
+          "width": 95,
+          "x": 906,
+          "y": 1699,
+          "zOrder": 100,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3327,33 +3871,16 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 5,
-          "height": 142,
+          "depth": 3,
+          "height": 96,
           "keepRatio": true,
           "layer": "",
           "name": "John",
           "persistentUuid": "28ccea68-b39c-475e-8acc-4cd7101d673f",
-          "width": 142,
-          "x": 777,
-          "y": 242,
+          "width": 96,
+          "x": 797,
+          "y": 1712,
           "zOrder": 53,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 2,
-          "height": 98,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Tree",
-          "persistentUuid": "ac665048-5778-487f-b780-5676224da76c",
-          "width": 98,
-          "x": 932,
-          "y": 569,
-          "zOrder": 54,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3377,203 +3904,16 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 2,
-          "height": 98,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Tree",
-          "persistentUuid": "6190f9f7-d460-4afb-80db-db9d9ec30a9e",
-          "width": 98,
-          "x": 918,
-          "y": 127,
-          "zOrder": 54,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 2,
-          "height": 98,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Tree",
-          "persistentUuid": "fd58ac0f-744f-4a40-953b-baa6f36ffc19",
-          "width": 98,
-          "x": 634,
-          "y": 447,
-          "zOrder": 54,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 2,
-          "height": 98,
+          "depth": 4,
+          "height": 181,
           "keepRatio": true,
           "layer": "",
           "name": "Tree",
           "persistentUuid": "d74705e0-d0d5-4519-ae54-90d02107e6dc",
-          "width": 98,
-          "x": 761,
-          "y": -69,
+          "width": 181,
+          "x": 735,
+          "y": 1355,
           "zOrder": 54,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 2,
-          "height": 98,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Tree",
-          "persistentUuid": "45fcc03d-3957-4fbc-811d-06ca4e734932",
-          "width": 98,
-          "x": 493,
-          "y": 78,
-          "zOrder": 54,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 2,
-          "height": 98,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Tree",
-          "persistentUuid": "aa2aad45-e1f1-4b46-a3cb-cf86260f8785",
-          "width": 98,
-          "x": 1570,
-          "y": 250,
-          "zOrder": 54,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 2,
-          "height": 98,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Tree",
-          "persistentUuid": "c7e52476-69b3-479f-957d-e32af66bf365",
-          "width": 98,
-          "x": 1102,
-          "y": -69,
-          "zOrder": 54,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 2,
-          "height": 98,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Tree",
-          "persistentUuid": "15b0ba76-becb-4f64-be86-e05874a31f29",
-          "width": 98,
-          "x": 1259,
-          "y": 373,
-          "zOrder": 54,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 2,
-          "height": 98,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Tree",
-          "persistentUuid": "83990e2a-4957-49b4-b8fb-695df3836fb5",
-          "width": 98,
-          "x": 322,
-          "y": 226,
-          "zOrder": 54,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 2,
-          "height": 98,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Tree",
-          "persistentUuid": "f5598e9c-7d91-45ae-bfb4-325a2ec430b6",
-          "width": 98,
-          "x": 1315,
-          "y": 103,
-          "zOrder": 54,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 2,
-          "height": 98,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Tree",
-          "persistentUuid": "74149a8d-5b3f-448b-b7d0-cb095b9ff9e0",
-          "width": 98,
-          "x": 634,
-          "y": 250,
-          "zOrder": 54,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 2,
-          "height": 98,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Tree",
-          "persistentUuid": "a21e62f0-9065-4fc3-bb17-c501cc8c4330",
-          "width": 98,
-          "x": 1145,
-          "y": 201,
-          "zOrder": 54,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 13,
-          "height": 805,
-          "keepRatio": true,
-          "layer": "UI",
-          "name": "DialogueBox",
-          "persistentUuid": "eebbba34-f1b5-4d71-a993-72b725bf448c",
-          "width": 805,
-          "x": 583,
-          "y": 443,
-          "zOrder": 56,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3587,8 +3927,8 @@
           "name": "NPCtext",
           "persistentUuid": "010e230a-87ff-4038-a6e4-12fd6127805e",
           "width": 0,
-          "x": 666,
-          "y": 724,
+          "x": 860,
+          "y": 677,
           "zOrder": 57,
           "numberProperties": [],
           "stringProperties": [],
@@ -3603,8 +3943,8 @@
           "name": "GoodBye",
           "persistentUuid": "8aaf1113-817c-4850-9782-875a70017a56",
           "width": 0,
-          "x": 1169,
-          "y": 928,
+          "x": 1245,
+          "y": 906,
           "zOrder": 58,
           "numberProperties": [],
           "stringProperties": [],
@@ -3619,9 +3959,259 @@
           "name": "Hello",
           "persistentUuid": "6c6198dd-3bae-46d7-a372-1db2f3b6f8be",
           "width": 0,
-          "x": 1054.5,
-          "y": 928,
+          "x": 1130,
+          "y": 906,
           "zOrder": 59,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "Music",
+          "persistentUuid": "1fa18340-e361-4d80-9f6c-3b5f416be720",
+          "width": 0,
+          "x": 866,
+          "y": 918,
+          "zOrder": 60,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "Treequest",
+          "persistentUuid": "882a3936-cc08-41f2-b1d1-d47f97e05d1e",
+          "width": 0,
+          "x": 27.75,
+          "y": 48,
+          "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NPCquest",
+          "persistentUuid": "31ce9fc5-ef4b-48e8-ba90-3c8191a31d72",
+          "width": 0,
+          "x": 1028,
+          "y": 2288,
+          "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "NPCquest",
+          "persistentUuid": "f99d17ed-5776-4131-b134-f5a5bff23d0e",
+          "width": 0,
+          "x": 1009,
+          "y": 917,
+          "zOrder": 63,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 181,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "0fd4e0a6-cdc1-47d2-bb5a-fdee3c7c42a7",
+          "width": 181,
+          "x": 1138,
+          "y": 1435,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 181,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "7898615c-bb19-4e80-b4a5-745364ebcbd3",
+          "width": 181,
+          "x": 1401,
+          "y": 1627,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 181,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "9f56df70-3f83-4e71-9c4c-175f77c922b0",
+          "width": 181,
+          "x": 416,
+          "y": 1499,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 181,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "83d538cd-0085-4f16-beff-5b6e640e3d85",
+          "width": 181,
+          "x": 679,
+          "y": 1883,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 181,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "0dee9243-b382-429d-a4ad-f27fa81798e7",
+          "width": 181,
+          "x": 1138,
+          "y": 1712,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 181,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "0f150526-f138-4333-b385-d4a603e828a4",
+          "width": 181,
+          "x": 901,
+          "y": 1563,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 181,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "d2f11777-0848-4e28-89b4-a13b8ca83892",
+          "width": 181,
+          "x": 611,
+          "y": 1643,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 181,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "1adee9c5-5091-45c1-92f8-e0e0d9dc536b",
+          "width": 181,
+          "x": 901,
+          "y": 1296,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 181,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "3341b242-cdd1-4b06-a923-a4149d7a1188",
+          "width": 181,
+          "x": 916,
+          "y": 1904,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 181,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "3788fdea-00f4-47d0-aaa1-748bb8a67b43",
+          "width": 181,
+          "x": 319,
+          "y": 1643,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "DialogueBox",
+          "persistentUuid": "94465de7-4b6d-4557-86eb-7db9f020827b",
+          "width": 0,
+          "x": 499,
+          "y": 576,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3718,7 +4308,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0006.png",
+                      "image": "20.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3734,1029 +4324,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 153,
-                            "y": 80
+                            "x": 268,
+                            "y": 24
                           },
                           {
-                            "x": 547,
-                            "y": 80
+                            "x": 734,
+                            "y": 24
                           },
                           {
-                            "x": 547,
-                            "y": 651
+                            "x": 734,
+                            "y": 949
                           },
                           {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Left",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.06,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0002.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "../../../Desktop/Citizen/PNG/Side/PNG Sequences/Walk/0_Citizen_Walk_005.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "../../../Desktop/Citizen/PNG/Side/PNG Sequences/Walk/0_Citizen_Walk_007.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0010.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0010.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0011.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0012.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0012.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0012.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Right",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.06,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0003.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0013.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0013.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0014.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0015.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0015.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0016.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0016.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0017.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Up",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.06,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0004.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0018.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0018.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0019.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0020.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0021.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0022.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0023.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0024.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 153,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 80
-                          },
-                          {
-                            "x": 547,
-                            "y": 651
-                          },
-                          {
-                            "x": 153,
-                            "y": 651
+                            "x": 268,
+                            "y": 949
                           }
                         ]
                       ]
@@ -4771,11 +4352,11 @@
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.06,
+                  "timeBetweenFrames": 0.1,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0005.png",
+                      "image": "21.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4791,27 +4372,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 153,
-                            "y": 80
+                            "x": 268,
+                            "y": 24
                           },
                           {
-                            "x": 547,
-                            "y": 80
+                            "x": 734,
+                            "y": 24
                           },
                           {
-                            "x": 547,
-                            "y": 651
+                            "x": 734,
+                            "y": 949
                           },
                           {
-                            "x": 153,
-                            "y": 651
+                            "x": 268,
+                            "y": 949
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0025.png",
+                      "image": "33.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4827,27 +4408,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 153,
-                            "y": 80
+                            "x": 268,
+                            "y": 24
                           },
                           {
-                            "x": 547,
-                            "y": 80
+                            "x": 734,
+                            "y": 24
                           },
                           {
-                            "x": 547,
-                            "y": 651
+                            "x": 734,
+                            "y": 949
                           },
                           {
-                            "x": 153,
-                            "y": 651
+                            "x": 268,
+                            "y": 949
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0026.png",
+                      "image": "22.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4863,27 +4444,76 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 153,
-                            "y": 80
+                            "x": 268,
+                            "y": 24
                           },
                           {
-                            "x": 547,
-                            "y": 80
+                            "x": 734,
+                            "y": 24
                           },
                           {
-                            "x": 547,
-                            "y": 651
+                            "x": 734,
+                            "y": 949
                           },
                           {
-                            "x": 153,
-                            "y": 651
+                            "x": 268,
+                            "y": 949
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "29.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 268,
+                            "y": 24
+                          },
+                          {
+                            "x": 734,
+                            "y": 24
+                          },
+                          {
+                            "x": 734,
+                            "y": 949
+                          },
+                          {
+                            "x": 268,
+                            "y": 949
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0027.png",
+                      "image": "30.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4899,27 +4529,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 153,
-                            "y": 80
+                            "x": 268,
+                            "y": 24
                           },
                           {
-                            "x": 547,
-                            "y": 80
+                            "x": 734,
+                            "y": 24
                           },
                           {
-                            "x": 547,
-                            "y": 651
+                            "x": 734,
+                            "y": 949
                           },
                           {
-                            "x": 153,
-                            "y": 651
+                            "x": 268,
+                            "y": 949
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0028.png",
+                      "image": "lefe.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4935,27 +4565,75 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 153,
-                            "y": 80
+                            "x": 268,
+                            "y": 24
                           },
                           {
-                            "x": 547,
-                            "y": 80
+                            "x": 734,
+                            "y": 24
                           },
                           {
-                            "x": 547,
-                            "y": 651
+                            "x": 734,
+                            "y": 949
                           },
                           {
-                            "x": 153,
-                            "y": 651
+                            "x": 268,
+                            "y": 949
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "31.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 268,
+                            "y": 24
+                          },
+                          {
+                            "x": 734,
+                            "y": 24
+                          },
+                          {
+                            "x": 734,
+                            "y": 949
+                          },
+                          {
+                            "x": 268,
+                            "y": 949
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0029.png",
+                      "image": "32.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4971,27 +4649,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 153,
-                            "y": 80
+                            "x": 268,
+                            "y": 24
                           },
                           {
-                            "x": 547,
-                            "y": 80
+                            "x": 734,
+                            "y": 24
                           },
                           {
-                            "x": 547,
-                            "y": 651
+                            "x": 734,
+                            "y": 949
                           },
                           {
-                            "x": 153,
-                            "y": 651
+                            "x": 268,
+                            "y": 949
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0030.png",
+                      "image": "rere.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5007,27 +4685,75 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 153,
-                            "y": 80
+                            "x": 268,
+                            "y": 24
                           },
                           {
-                            "x": 547,
-                            "y": 80
+                            "x": 734,
+                            "y": 24
                           },
                           {
-                            "x": 547,
-                            "y": 651
+                            "x": 734,
+                            "y": 949
                           },
                           {
-                            "x": 153,
-                            "y": 651
+                            "x": 268,
+                            "y": 949
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "26.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 268,
+                            "y": 24
+                          },
+                          {
+                            "x": 734,
+                            "y": 24
+                          },
+                          {
+                            "x": 734,
+                            "y": 949
+                          },
+                          {
+                            "x": 268,
+                            "y": 949
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0031.png",
+                      "image": "27.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5043,27 +4769,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 153,
-                            "y": 80
+                            "x": 268,
+                            "y": 24
                           },
                           {
-                            "x": 547,
-                            "y": 80
+                            "x": 734,
+                            "y": 24
                           },
                           {
-                            "x": 547,
-                            "y": 651
+                            "x": 734,
+                            "y": 949
                           },
                           {
-                            "x": 153,
-                            "y": 651
+                            "x": 268,
+                            "y": 949
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "0_Citizen_Walk_0032.png",
+                      "image": "28.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5079,20 +4805,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 153,
-                            "y": 80
+                            "x": 268,
+                            "y": 24
                           },
                           {
-                            "x": 547,
-                            "y": 80
+                            "x": 734,
+                            "y": 24
                           },
                           {
-                            "x": 547,
-                            "y": 651
+                            "x": 734,
+                            "y": 949
                           },
                           {
-                            "x": 153,
-                            "y": 651
+                            "x": 268,
+                            "y": 949
                           }
                         ]
                       ]
@@ -5124,7 +4850,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Isometric Abstract Platformer Green Tile_Plain.png",
+                      "image": "grass2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5144,160 +4870,16 @@
                             "y": 0
                           },
                           {
-                            "x": 111,
+                            "x": 555,
                             "y": 0
                           },
                           {
-                            "x": 111,
-                            "y": 128
+                            "x": 555,
+                            "y": 640
                           },
                           {
                             "x": 0,
-                            "y": 128
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Texture0",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Isometric Abstract Platformer Green Tile_Texture0.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 111,
-                            "y": 0
-                          },
-                          {
-                            "x": 111,
-                            "y": 128
-                          },
-                          {
-                            "x": 0,
-                            "y": 128
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Texture1",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Isometric Abstract Platformer Green Tile_Texture1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 111,
-                            "y": 0
-                          },
-                          {
-                            "x": 111,
-                            "y": 128
-                          },
-                          {
-                            "x": 0,
-                            "y": 128
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Top",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Isometric Abstract Platformer Green Tile_Top.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 111,
-                            "y": 0
-                          },
-                          {
-                            "x": 111,
-                            "y": 128
-                          },
-                          {
-                            "x": 0,
-                            "y": 128
+                            "y": 640
                           }
                         ]
                       ]
@@ -5391,7 +4973,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "john_lumber_5.png",
+                      "image": "anne.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5407,20 +4989,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 545,
-                            "y": 438
+                            "x": 198,
+                            "y": 24
                           },
                           {
-                            "x": 1330,
-                            "y": 438
+                            "x": 807,
+                            "y": 24
                           },
                           {
-                            "x": 1330,
-                            "y": 1749
+                            "x": 807,
+                            "y": 977
                           },
                           {
-                            "x": 545,
-                            "y": 1749
+                            "x": 198,
+                            "y": 977
                           }
                         ]
                       ]
@@ -5452,7 +5034,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "1.png",
+                      "image": "10.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5468,20 +5050,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 8,
-                            "y": 1
+                            "x": 19,
+                            "y": 30
                           },
                           {
-                            "x": 57,
-                            "y": 1
+                            "x": 938,
+                            "y": 30
                           },
                           {
-                            "x": 57,
-                            "y": 64
+                            "x": 938,
+                            "y": 1000
                           },
                           {
-                            "x": 8,
-                            "y": 64
+                            "x": 19,
+                            "y": 1000
                           }
                         ]
                       ]
@@ -5500,7 +5082,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "2.png",
+                      "image": "12.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5516,20 +5098,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 8,
-                            "y": 1
+                            "x": 19,
+                            "y": 30
                           },
                           {
-                            "x": 57,
-                            "y": 1
+                            "x": 938,
+                            "y": 30
                           },
                           {
-                            "x": 57,
-                            "y": 64
+                            "x": 938,
+                            "y": 1000
                           },
                           {
-                            "x": 8,
-                            "y": 64
+                            "x": 19,
+                            "y": 1000
                           }
                         ]
                       ]
@@ -5548,7 +5130,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "3.png",
+                      "image": "13.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5564,20 +5146,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 8,
-                            "y": 1
+                            "x": 19,
+                            "y": 30
                           },
                           {
-                            "x": 57,
-                            "y": 1
+                            "x": 938,
+                            "y": 30
                           },
                           {
-                            "x": 57,
-                            "y": 64
+                            "x": 938,
+                            "y": 1000
                           },
                           {
-                            "x": 8,
-                            "y": 64
+                            "x": 19,
+                            "y": 1000
                           }
                         ]
                       ]
@@ -5593,11 +5175,11 @@
                 {
                   "looping": false,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.1,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "9",
+                      "image": "14.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5613,27 +5195,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 8,
-                            "y": 1
+                            "x": 19,
+                            "y": 30
                           },
                           {
-                            "x": 57,
-                            "y": 1
+                            "x": 938,
+                            "y": 30
                           },
                           {
-                            "x": 57,
-                            "y": 64
+                            "x": 938,
+                            "y": 1000
                           },
                           {
-                            "x": 8,
-                            "y": 64
+                            "x": 19,
+                            "y": 1000
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "10",
+                      "image": "15.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5649,27 +5231,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 8,
-                            "y": 1
+                            "x": 19,
+                            "y": 30
                           },
                           {
-                            "x": 57,
-                            "y": 1
+                            "x": 938,
+                            "y": 30
                           },
                           {
-                            "x": 57,
-                            "y": 64
+                            "x": 938,
+                            "y": 1000
                           },
                           {
-                            "x": 8,
-                            "y": 64
+                            "x": 19,
+                            "y": 1000
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "11",
+                      "image": "15.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5685,27 +5267,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 8,
-                            "y": 1
+                            "x": 19,
+                            "y": 30
                           },
                           {
-                            "x": 57,
-                            "y": 1
+                            "x": 938,
+                            "y": 30
                           },
                           {
-                            "x": 57,
-                            "y": 64
+                            "x": 938,
+                            "y": 1000
                           },
                           {
-                            "x": 8,
-                            "y": 64
+                            "x": 19,
+                            "y": 1000
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "12",
+                      "image": "16.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5721,27 +5303,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 8,
-                            "y": 1
+                            "x": 19,
+                            "y": 30
                           },
                           {
-                            "x": 57,
-                            "y": 1
+                            "x": 938,
+                            "y": 30
                           },
                           {
-                            "x": 57,
-                            "y": 64
+                            "x": 938,
+                            "y": 1000
                           },
                           {
-                            "x": 8,
-                            "y": 64
+                            "x": 19,
+                            "y": 1000
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "13",
+                      "image": "17.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5757,20 +5339,92 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 8,
-                            "y": 1
+                            "x": 19,
+                            "y": 30
                           },
                           {
-                            "x": 57,
-                            "y": 1
+                            "x": 938,
+                            "y": 30
                           },
                           {
-                            "x": 57,
-                            "y": 64
+                            "x": 938,
+                            "y": 1000
                           },
                           {
-                            "x": 8,
-                            "y": 64
+                            "x": 19,
+                            "y": 1000
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19,
+                            "y": 30
+                          },
+                          {
+                            "x": 938,
+                            "y": 30
+                          },
+                          {
+                            "x": 938,
+                            "y": 1000
+                          },
+                          {
+                            "x": 19,
+                            "y": 1000
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "19.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19,
+                            "y": 30
+                          },
+                          {
+                            "x": 938,
+                            "y": 30
+                          },
+                          {
+                            "x": 938,
+                            "y": 1000
+                          },
+                          {
+                            "x": 19,
+                            "y": 1000
                           }
                         ]
                       ]
@@ -5847,7 +5501,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite",
+                      "image": "textb2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5863,20 +5517,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 19
+                            "x": 35,
+                            "y": 68
                           },
                           {
-                            "x": 62,
-                            "y": 19
+                            "x": 970,
+                            "y": 68
                           },
                           {
-                            "x": 62,
-                            "y": 44
+                            "x": 970,
+                            "y": 489
                           },
                           {
-                            "x": 5,
-                            "y": 44
+                            "x": 35,
+                            "y": 489
                           }
                         ]
                       ]
@@ -5987,7 +5641,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Hello",
+          "string": "Alien",
           "font": "",
           "textAlignment": "left",
           "characterSize": 40,
@@ -6010,7 +5664,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Hello",
+            "text": "Alien",
             "font": "",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
@@ -6018,6 +5672,199 @@
             "lineHeight": 0,
             "color": "0;0;0"
           }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Music",
+          "persistentUuid": "7c2e9be7-6329-4993-81bb-55c65503ff01",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Quest finished",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Quest finished",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Treequest",
+          "persistentUuid": "245bc0ef-8d91-4537-9ca2-39065b4ffcd6",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Trees cut: 0/5",
+          "font": "804340f46c974331793dbe29e5efab57db6d59fc6b65d3a1837fe4309d194abb_NotoSansArabicUI-Bold.ttf",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Trees cut: 0/5",
+            "font": "804340f46c974331793dbe29e5efab57db6d59fc6b65d3a1837fe4309d194abb_NotoSansArabicUI-Bold.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "NPCquest",
+          "persistentUuid": "b5fcc27f-424e-4500-9351-ae32abaafcd8",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Give quest",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Give quest",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Tree2",
+          "persistentUuid": "08191293-5535-4b93-ac1c-e2fde20be27c",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 268,
+                            "y": 713
+                          },
+                          {
+                            "x": 833,
+                            "y": 713
+                          },
+                          {
+                            "x": 833,
+                            "y": 1000
+                          },
+                          {
+                            "x": 268,
+                            "y": 1000
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -6033,6 +5880,9 @@
             "objectName": "Tree"
           },
           {
+            "objectName": "Tree2"
+          },
+          {
             "objectName": "InvisibleWall"
           },
           {
@@ -6042,16 +5892,25 @@
             "objectName": "TreeScore"
           },
           {
+            "objectName": "Treequest"
+          },
+          {
             "objectName": "DialogueBox"
           },
           {
             "objectName": "NPCtext"
           },
           {
+            "objectName": "NPCquest"
+          },
+          {
             "objectName": "GoodBye"
           },
           {
             "objectName": "Hello"
+          },
+          {
+            "objectName": "Music"
           }
         ]
       },
@@ -6122,6 +5981,42 @@
               },
               "parameters": [
                 "Hello"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "Music"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "NPCquest"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "Treequest"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "Lumbering.wav",
+                "yes",
+                "",
+                ""
               ]
             }
           ]
@@ -6489,11 +6384,93 @@
             },
             {
               "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Tree2",
+                "Tree.X()",
+                "Tree.Y()",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "Delete"
               },
               "parameters": [
                 "Tree",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetZOrder"
+              },
+              "parameters": [
+                "Tree2",
+                "-",
+                "10"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "Tree2",
+                "Resizable",
+                "=",
+                "181"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "Tree2",
+                "Resizable",
+                "=",
+                "181"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Visible"
+                  },
+                  "parameters": [
+                    "Treequest"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Treequesty",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Treequest",
+                    "Text",
+                    "=",
+                    "\"Trees cut: \" + Treequesty+ \"/5\""
+                  ]
+                }
               ]
             }
           ]
@@ -6561,13 +6538,50 @@
             },
             {
               "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "NPCquest",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "TextContainerCapability::TextContainerBehavior::SetValue"
               },
               "parameters": [
                 "NPCtext",
                 "Text",
                 "=",
-                "\"Hello I am John Lumber the lumberish\""
+                "\"Greetings human!\""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Treequesty",
+                    ">=",
+                    "5"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "Music",
+                    ""
+                  ]
+                }
               ]
             }
           ]
@@ -6636,7 +6650,32 @@
                 "value": "Hide"
               },
               "parameters": [
+                "NPCquest"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
                 "Hello"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "Music"
+              ]
+            },
+            {
+              "type": {
+                "value": "PauseMusicChannel"
+              },
+              "parameters": [
+                "",
+                "1"
               ]
             }
           ]
@@ -6674,7 +6713,7 @@
                 "NPCtext",
                 "Text",
                 "=",
-                "\"Yes yes yes hello!\""
+                "\"Yes yes yes!! I am an alien!\""
               ]
             },
             {
@@ -6683,6 +6722,138 @@
               },
               "parameters": [
                 "Hello"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "NPCquest",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "NPCtext",
+                "Text",
+                "=",
+                "\"Ahh yess, cut me some woods!?\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "NPCquest"
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "Treequest",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "NPCquest",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "Music",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "NPCtext",
+                "Text",
+                "=",
+                "\"Wowzaa!! Good job!!\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "Music"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusicOnChannel"
+              },
+              "parameters": [
+                "",
+                "achievement_earned.mp3",
+                "1",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Music",
+                ""
               ]
             }
           ]
